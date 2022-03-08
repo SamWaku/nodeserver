@@ -1,6 +1,6 @@
 const mongoose = require('mongoose'); //import mongoose
 const bcrypt = require('bcryptjs');   //import bcryptjs
-const jwt = require('jasonwebtoken'); //import jwt
+const jwt = require('jsonwebtoken'); //import jwt
 const Schema = mongoose.Schema;       //schema
 
 const { JWT_SECRET } = process.env;
