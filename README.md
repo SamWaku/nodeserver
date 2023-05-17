@@ -21,5 +21,5 @@ This is a basic nodejs server built to facilitate CRUD operations on a user
   npm start
   ```
 ## Usage
-- If done correctly your app should be running on *http://locahost:5000*;
+- If done correctly your app should be running on *http://locahost:4000*
 - Or your desired port number
