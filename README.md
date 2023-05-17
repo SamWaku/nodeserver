@@ -15,7 +15,7 @@ This is a basic nodejs server built to facilitate CRUD operations on a user
 - Before you run the server make sure to check the following:
   - The server scripts in the **package.json** should read *"start":"nodemon sever.js"*
   - All the dependencies and dev depenedenices should be installed
-  - Make sure the *.env* file has the **PORT, MONGU_URL, TOKEN & REFRESH TOKEN** 
+  - Make sure the *.env* file has the **PORT, MONGO_URL, TOKEN & REFRESH TOKEN** 
 - In the same root directory run the following command to start the server
   ``` bash
   npm start
