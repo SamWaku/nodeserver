@@ -11,6 +11,7 @@ This is a basic nodejs server built to facilitate CRUD operations on a user
   ``` bash
   npm install
   ```
+## Start
 - Before you run the server make sure to check the following:
   - The server scripts in the **package.json** should read *"start":"nodemon sever.js"*
   - All the dependencies and dev depenedenices should be installed
